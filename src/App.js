@@ -9,13 +9,13 @@ const App = () => (
   <Router>
     <div className="App">
       <header className="App-header">
-        <Link to="/">
+        <Link to="/emdb">
           <h1 id="logo">[emdb]</h1>
         </Link>
       </header>
       <Switch>
-        <Route exact path="/" component={MoviesList} />
-        <Route path="/:id" component={MovieDetail} />
+        <Route exact path="/emdb" component={MoviesList} />
+        <Route path="/emdb/:id" component={MovieDetail} />
       </Switch>
     </div>
   </Router>
