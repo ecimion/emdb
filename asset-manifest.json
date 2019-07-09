@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.56920482.chunk.css",
-    "main.js": "/static/js/main.1000df99.chunk.js",
-    "main.js.map": "/static/js/main.1000df99.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.c6abc787.chunk.js": "/static/js/2.c6abc787.chunk.js",
-    "static/js/2.c6abc787.chunk.js.map": "/static/js/2.c6abc787.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7a32ab4579eee10fa909aaaf61a74ecf.js": "/precache-manifest.7a32ab4579eee10fa909aaaf61a74ecf.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.56920482.chunk.css.map": "/static/css/main.56920482.chunk.css.map"
+    "main.css": "/emdb/static/css/main.56920482.chunk.css",
+    "main.js": "/emdb/static/js/main.45acc357.chunk.js",
+    "main.js.map": "/emdb/static/js/main.45acc357.chunk.js.map",
+    "runtime~main.js": "/emdb/static/js/runtime~main.be292351.js",
+    "runtime~main.js.map": "/emdb/static/js/runtime~main.be292351.js.map",
+    "static/js/2.ccf4c54e.chunk.js": "/emdb/static/js/2.ccf4c54e.chunk.js",
+    "static/js/2.ccf4c54e.chunk.js.map": "/emdb/static/js/2.ccf4c54e.chunk.js.map",
+    "index.html": "/emdb/index.html",
+    "precache-manifest.98fc33fc661ad043582eb99232569bfb.js": "/emdb/precache-manifest.98fc33fc661ad043582eb99232569bfb.js",
+    "service-worker.js": "/emdb/service-worker.js",
+    "static/css/main.56920482.chunk.css.map": "/emdb/static/css/main.56920482.chunk.css.map"
   }
 }
