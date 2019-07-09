@@ -10,7 +10,7 @@ const App = () => (
     <div className="App">
       <header className="App-header">
         <Link to="/">
-          <h1>[emdb]</h1>
+          <h1 id="logo">[emdb]</h1>
         </Link>
       </header>
       <Switch>

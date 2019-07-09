@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+
 .App {
   text-align: center;
 }
@@ -11,6 +13,13 @@
 
 .App-link {
   color: #61dafb;
+}
+
+a,#logo {
+  font-family: 'Righteous';
+  font-style: normal;
+  color: #a7d129;
+  text-decoration: none;
 }
 
 @keyframes App-logo-spin {
