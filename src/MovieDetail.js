@@ -14,7 +14,7 @@ class MovieDetail extends React.Component {
 
   async componentDidMount() {
     try {
-      const res = await fetch(`https://api.themoviedb.org/3/movie/${this.props.match.params.id}?api_key=c036ce0df8fcea4aa1b474761e9eae1b&language=ja-JP`);
+      const res = await fetch(`https://api.themoviedb.org/3/movie/${this.props.match.params.id}?api_key=c036ce0df8fcea4aa1b474761e9eae1b&language=en-US`);
       const movie = await res.json();
       this.setState({
         movie: movie
@@ -47,7 +47,7 @@ export default MovieDetail;
 
 const MovieWrapper = styled.div`
   position: relative;
-  padding-top: 50vh;
+  padding-top: 60vh;
   background: url(${props => props.backdrop}) no-repeat;
   background-size: cover;
 `;
